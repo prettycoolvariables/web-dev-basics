@@ -1,0 +1,23 @@
+p {
+  min-height: 90px;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+  width: 110px;
+}
+
+#blue {
+  background-color: blue;
+  width: 50vw;
+}
+
+.moccasin {
+  background-color: yellow;
+  width: 250px;
+  max-width: 75vw;
+  /* width: 70vw;
+  max-width: 400px;
+  min-width: 150px; */
+}
