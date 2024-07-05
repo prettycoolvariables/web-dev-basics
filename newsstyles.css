@@ -1,0 +1,31 @@
+/* Write code below this line */
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+.header {
+  text-align: center;
+}
+.image-container {
+  max-width: 600px;
+  margin: auto;
+}
+.reference-image {
+  width: 100%;
+}
+
+.main-heading {
+  font-size: 2.5rem;
+}
+
+.sub-heading {
+  font-size: 1.9rem;
+}
+
+.description-para {
+  text-align: left;
+}
